@@ -17,3 +17,7 @@ Descripción de la actividad.
 ## Laboratorio 4: Descenso de gradiente estocástico y aplicaciones.
 
 Descripción de la actividad.
+
+## Proyecto final: Optimización estocástica
+
+Descripción de la actividad.
